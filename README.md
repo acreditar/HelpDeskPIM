@@ -1,36 +1,67 @@
-# HelpDesk
+# HelpDesk - Revolucionando o Suporte Técnico com Inteligência Artificial
 
-## Descrição do Desafio
-O desafio proposto foi criar um sistema de chamado para setores empresariai(setor TI, administrativo e etc...) com integração e priorização e encaminhamento automatico sem precisar do contato humano assim otimizando o tempo e podendo focar somente no chamado para resolve-lo mais rapido possivel, nosso projeto conta com uma API feita em C# e um (frontend) e integração com ia que sera responsavel por propor soluções no momento da abertura do chamado, caso não seja resolvida a pendencia ela ira encaminhar para o setor responsavel. O armazenamento sera feito em SqlServer hospedado em nuvem e tendo disponibilidade multiplataforma assim sendo web, mobile, desktop.
+![BannerHelp](Header.png)
 
-## Backlog do Produto
-- [ ] Item 1
-- [ ] Item 2
-- [ ] Item 3
+_Soluções integradas de suporte técnico com IA para empresas que buscam eficiência e organização._
 
-## Cronograma de Evolução do Projeto
-Aqui, você pode adicionar um gráfico visual do cronograma (use uma ferramenta como o Trello, ou um simples diagrama).
+---
 
-## Tabela Descritiva das Sprints
-| Período da Sprint | Link para a Documentação da Sprint | 
-|-------------------|------------------------------------|
-| Sprint 1          | [Documentação Sprint 1](#)         |
-| Sprint 2          | [Documentação Sprint 2](#)         |
+## 📌 Sobre a HelpDesk
 
-## Tecnologias Utilizadas
-- Backend feito em C#
-- (frontend)
-- SqlServer em nuvem
-- Gemini IA
+Fundada em 2024, a **HelpDesk** é uma plataforma de suporte técnico corporativo especializada em centralizar e automatizar o atendimento de TI. Nossa missão é **transformar a experiência interna de suporte** através de tecnologia de ponta e inteligência artificial aplicada.
 
-## Estrutura do Projeto
-Descreva a estrutura de diretórios e arquivos do projeto.
+---
 
-## Como Executar, Usar ou Testar o Projeto
-Explique como rodar o projeto localmente, ou como realizar testes. Exemplo de comandos:
 
-```bash
-git clone https://github.com/usuario/repo.git
-cd pasta-do-projeto
-npm install
-npm start
+## 🚀 Diferenciais Estratégicos
+
+| Área                       | Inovação HelpDesk                                                               |
+| -------------------------- | ------------------------------------------------------------------------------- |
+| **Centralização**          | Portal único para registro, acompanhamento e histórico de chamados              |
+| **Automação de Suporte**   | IA que sugere soluções automáticas para 70% dos problemas registrados           |
+| **Roteamento Inteligente** | Encaminhamento automático para técnicos especializados, conforme a complexidade |
+| **Base de Conhecimento**   | FAQ e tutoriais dinâmicos gerados automaticamente pela IA                       |
+
+---
+
+## 💡 Produtos e Soluções
+
+### 1. HelpDesk Connect
+**O que faz:**  
+Portal de registro de chamados via web, desktop ou app mobile.
+
+**Destaques:**
+- Interface intuitiva
+- Login seguro criptografia
+- Histórico completo de atendimento por usuário
+
+### 2. HelpDesk AI Assist
+**Exclusivo para clientes:**
+- Triagem automática de chamados por IA
+- Sugestão de soluções baseadas em casos anteriores
+- Autoatendimento com inteligência adaptativa
+  
+### 3. Tecnologias utilizadas
+- Backend em C#
+- Hospedagem em nuvem
+- SqlServer para armazenamento
+- Integração com I.A para priorização e encaminhamento automatico para setor responsavel
+
+---
+
+## 🌎 Responsabilidade Social
+
+- **Programa "TI para Todos"**: Iniciativa que treina jovens de comunidades para atuação em suporte técnico.
+- **Sustentabilidade**: Infraestrutura 100% em nuvem com compensação de carbono.
+
+---
+
+## 📞 Contato e Carreira
+
+- **Comercial:** [Jonas Santos Rubio](https://github.com/JSRubioo)    
+- **Imprensa:** [Breno Sacilotti](https://github.com/acreditar)    
+- **Trabalhe conosco:** [João Gabriel de Oliveira](https://github.com/dev-joaogabriel)    
+- **FeedBack:** [Rodrigo Oliveira](https://github.com/devRODS)
+---
+
+> **HelpDesk** — "Atendimento que entende você."
