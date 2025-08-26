@@ -49,6 +49,9 @@ Portal de registro de chamados via web, desktop ou app mobile.
 
 ---
 
+### Sprints do Projeto
+[Sprint](https://github.com/user/repo/blob/branch/other_file.md)
+
 ## 🌎 Responsabilidade Social
 
 - **Programa "TI para Todos"**: Iniciativa que treina jovens de comunidades para atuação em suporte técnico.
