@@ -51,7 +51,7 @@ Portal de registro de chamados via web, desktop ou app mobile.
 
 ---
 
-### Sprints do Projeto
+###  📋 Sprints do Projeto
 [Sprint](https://github.com/acreditar/HelpDeskPIM/blob/main/sprint.md)
 
 ---
