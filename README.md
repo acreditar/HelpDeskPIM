@@ -50,7 +50,7 @@ Portal de registro de chamados via web, desktop ou app mobile.
 ---
 
 ### Sprints do Projeto
-[Sprint](https://github.com/user/repo/blob/branch/other_file.md)
+[Sprint](https://github.com/acreditar/HelpDeskPIM/blob/main/sprint.md)
 
 ## 🌎 Responsabilidade Social
 
