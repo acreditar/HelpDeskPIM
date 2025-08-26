@@ -41,30 +41,40 @@ Portal de registro de chamados via web, desktop ou app mobile.
 - Sugestão de soluções baseadas em casos anteriores
 - Autoatendimento com inteligência adaptativa
   
-### 3. Tecnologias utilizadas
-- Backend em C#
-- Hospedagem em nuvem
-- SqlServer para armazenamento
-- Integração com I.A para priorização e encaminhamento automatico para setor responsavel
+## 💻 Tecnologias <a id="tecnologias"></a>
+
+<h4 align="center">
+ <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+</h4>
 
 ---
 
 ### Sprints do Projeto
 [Sprint](https://github.com/acreditar/HelpDeskPIM/blob/main/sprint.md)
 
-## 🌎 Responsabilidade Social
+---
+## 📋 Backlog do Produto <a id="backlog"></a>
 
-- **Programa "TI para Todos"**: Iniciativa que treina jovens de comunidades para atuação em suporte técnico.
-- **Sustentabilidade**: Infraestrutura 100% em nuvem com compensação de carbono.
+| Rank | Prioridade | User Story                                                                                                                                                              | Story Points | Sprint | Requisito do Cliente | Status |
+|:----:|:----------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------:|:------:|:--------------------:|:------:|
+|  1   |    Alta    | Como usuário, quero abrir chamados de suporte com informações detalhadas, para que o atendimento seja registrado e monitorado adequadamente.                          |      13      |   1    |         R01          |   ⬜    |
+|  2   |    Alta    | Como usuário, quero acompanhar o status dos meus chamados, para saber quando eles forem atendidos, em andamento ou finalizados.                                        |      8       |   1    |         R01          |   ⬜    |
+|  3   |    Alta    | Como técnico, quero receber notificações dos chamados atribuídos à minha especialidade, para priorizar e organizar meu atendimento.                                   |      13      |   2    |         R02          |   ⬜    |
+|  4   |    Alta    | Como sistema, quero roteamento automático dos chamados para técnicos especializados, para agilizar o atendimento e melhorar a eficiência.                              |      20      |   2    |         R02          |   ⬜    |
+|  5   |   Média    | Como usuário, quero receber sugestões automáticas de solução para meu problema via IA, para tentar resolver sem precisar aguardar atendimento.                          |      21      |   3    |         R03          |   ⬜    |
+|  6   |   Média    | Como administrador, quero gerenciar usuários (cadastro, edição e exclusão), para controlar quem tem acesso ao sistema.                                                |      13      |   3    |         R04          |   ⬜    |
+|  7   |   Média    | Como usuário, quero uma interface para avaliar as respostas e soluções recebidas, para melhorar a qualidade do atendimento e da base de conhecimento da IA.             |      8       |   4    |         R03          |   ⬜    |
+|  8   |   Baixa    | Como usuário, quero receber mensagens claras em casos de erros ou demora na resposta do sistema, para saber o status do meu chamado.                                  |      5       |   4    |         R05          |   ⬜    |
+|  9   |   Baixa    | Como técnico, quero visualizar o histórico completo dos chamados que já atendi, para facilitar análises e relatórios.                                                |      8       |   4    |         R06          |   ⬜    |
 
 ---
 
 ## 📞 Contato e Carreira
 
-- **Comercial:** [Jonas Santos Rubio](https://github.com/JSRubioo)    
-- **Imprensa:** [Breno Sacilotti](https://github.com/acreditar)    
-- **Trabalhe conosco:** [João Gabriel de Oliveira](https://github.com/dev-joaogabriel)    
-- **FeedBack:** [Rodrigo Oliveira](https://github.com/devRODS)
+    
+- **contato** [Breno Sacilotti](https://github.com/acreditar)    
+
 ---
 
 > **HelpDesk** — "Atendimento que entende você."
