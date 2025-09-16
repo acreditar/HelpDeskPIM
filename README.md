@@ -18,7 +18,7 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 ## 📆 Cronograma de Evolução do Projeto  
 
-👉 [Acesse o Backlog Completo](https://github.com/acreditar/HelpDeskPIM/blob/main/gantt.md)
+👉 [Acesse o DiagramaGantt](https://github.com/acreditar/HelpDeskPIM/blob/main/gantt.md)
 
 
 ---
