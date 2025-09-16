@@ -1,11 +1,11 @@
-```mermaid 
+```mermaid
 gantt
-    Previsão baseada em Diagrama de Gantt - HelpDesk com IA
+    title Roadmap / Previsão - OkinawaDesk com IA
     dateFormat  YYYY-MM-DD
     axisFormat  %d/%m
 
     section Planejamento
-    Levantamento de Requisitos       :a1, 2025-08-13, 3d
+    Levantamento de Requisitos       :a1, 2025-09-16, 3d
     Definição do Backlog             :a2, after a1, 2d
     Planejamento Sprint 1            :a3, after a2, 1d
 
